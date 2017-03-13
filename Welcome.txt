@@ -1,4 +1,7 @@
 Welcome.txt created in my first feature branch.
+
+Fixed hotfix 200.
+
 2017.03.08 (the date should be 8/3/2017)
 
 Fixed hotfix 100.
