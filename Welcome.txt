@@ -4,3 +4,5 @@ Welcome.txt created in my first feature branch.
 Fixed hotfix 300.
 
 Fixed hotfix 100.
+
+Fixed hotfix 300 - Line 2.
