@@ -11,6 +11,7 @@ Fixed hotfix 300.
 Fixed hotfix 100.
 
 New line added afte project1 branched.
+New line #2 added afte project1 branched.
 
 ccccccc Fixed hotfix 300 - Line 2.
 
