@@ -8,8 +8,9 @@ Fixed hotfix 200.
 aaaaaaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbbbbb
 Fixed hotfix 300.
-
 Fixed hotfix 100.
+
+New line added afte project1 branched.
 
 ccccccc Fixed hotfix 300 - Line 2.
 
